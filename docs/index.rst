@@ -3,7 +3,7 @@ How to Login Trend Micro Account Easily
 
 If you are looking for a seamless way to access your Trend Micro account, you have come to the right place. Trend Micro is one of the leading cybersecurity solutions providers, offering a range of products such as antivirus, internet security, and endpoint protection. Logging into your Trend Micro account allows you to manage subscriptions, access security tools, and stay updated with the latest features. This guide will help you understand how to login to your Trend Micro account easily and troubleshoot common issues.
 
-.. image:: 
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
